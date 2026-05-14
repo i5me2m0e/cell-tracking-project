@@ -12,3 +12,5 @@ notebook
 ipykernel
 pytest
 imagecodecs
+torch
+torchvision
